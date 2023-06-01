@@ -1,0 +1,17 @@
+body{
+text-align: center;
+background-color: #9CFF2E;
+}
+input[value = "SUBMIT  ⇨"]{
+color: white;
+background-color: #FF6D28;
+padding: 8px 30px;
+border: none;
+outline: 1px solid white;
+outline-offset: 2px;
+border-radius: 9px;
+
+}
+h2{
+color:red;
+}
